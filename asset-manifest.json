@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/belajar-api/static/css/main.144eb542.chunk.css",
+    "main.js": "/belajar-api/static/js/main.6fb80fbb.chunk.js",
+    "main.js.map": "/belajar-api/static/js/main.6fb80fbb.chunk.js.map",
+    "runtime-main.js": "/belajar-api/static/js/runtime-main.8315a828.js",
+    "runtime-main.js.map": "/belajar-api/static/js/runtime-main.8315a828.js.map",
+    "static/js/2.5fcc2b98.chunk.js": "/belajar-api/static/js/2.5fcc2b98.chunk.js",
+    "static/js/2.5fcc2b98.chunk.js.map": "/belajar-api/static/js/2.5fcc2b98.chunk.js.map",
+    "index.html": "/belajar-api/index.html",
+    "precache-manifest.e13e59f54b5d06ae8d5f13e2fb15d89c.js": "/belajar-api/precache-manifest.e13e59f54b5d06ae8d5f13e2fb15d89c.js",
+    "service-worker.js": "/belajar-api/service-worker.js",
+    "static/css/main.144eb542.chunk.css.map": "/belajar-api/static/css/main.144eb542.chunk.css.map",
+    "static/js/2.5fcc2b98.chunk.js.LICENSE.txt": "/belajar-api/static/js/2.5fcc2b98.chunk.js.LICENSE.txt",
+    "static/js/main.6fb80fbb.chunk.js.LICENSE.txt": "/belajar-api/static/js/main.6fb80fbb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8315a828.js",
+    "static/js/2.5fcc2b98.chunk.js",
+    "static/css/main.144eb542.chunk.css",
+    "static/js/main.6fb80fbb.chunk.js"
+  ]
+}
